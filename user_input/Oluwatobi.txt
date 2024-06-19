@@ -1,0 +1,5 @@
+Bill breakdown: 
+Cake:                     ...$1 
+Pie:                      ...$23.78 
+Shirt:                    ...$30 
+total:                    ...$0.254.780000
